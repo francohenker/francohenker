@@ -43,8 +43,8 @@
   <a href="https://github.com/francohenker/barber">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=francohenker&repo=barber&theme=tokyonight&hide_border=true" alt="barber" />
   </a>
-  <a href="https://github.com/francohenker/BebiSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francohenker&repo=BebiSync&theme=tokyonight&hide_border=true" alt="BebiSync" />
+  <a href="https://github.com/francohenker/fceqyn-mcp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=francohenker&repo=fceqyn-mcp&theme=tokyonight&hide_border=true" alt="fceqyn-mcp" />
   </a>
   <a href="https://github.com/francohenker/carDetailing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=francohenker&repo=carDetailing&theme=tokyonight&hide_border=true" alt="carDetailing" />
